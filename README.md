@@ -14,7 +14,7 @@ Starting with the Collect button, we will simply create a dataset, where we will
 On this second phase, with the Train button we  take all user data from our dataset and "trainer" the OpenCV Recognizer. This is done directly by a specific OpenCV function. The result will be a .yml file that will be saved on a "trainer/" directory. Each face is matched with an id from the client.txt file
 ### 3rd Phase
  Here, we will capture a fresh face on our camera and if this person had his face captured and
- trained before, the recognizer will make a "prediction" returning its id and an index, shown how confident the recognizer is with this match.Also, using a dlib’s pre-trained facial landmark detector [dlib 68-point facial landmark shape predictor](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) the system detects if the person blinks and hence concluding if the person is Real or a photo.
+ trained before, the recognizer will make a "prediction" returning its id and an index, shown how confident the recognizer is with this match.Also, using a dlib’s pre-trained facial landmark detector [download here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) the system detects if the person blinks and hence concluding if the person is Real or a photo.
 
 ### Limitations
 
