@@ -30,7 +30,7 @@ Of course the system is just a prototype and has a lot of limitations as well as
 
 ### Screenshots
 
-![Real examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/Screnshot-real)
-![Fake examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/Screnshot-fake)
-![GUI examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/Screnshot-GUI)
+![Real examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/blob/master/Screenshot-real.png)
+![Fake examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/blob/master/Screenshot-fake.png)
+![GUI examples](https://github.com/ErodotosTerpizis/Face-Recognition-Python-OpenCV-/blob/master/Screenshot-GUI.png)
 
